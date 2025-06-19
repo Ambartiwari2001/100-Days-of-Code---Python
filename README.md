@@ -21,25 +21,6 @@ For the next 100 days, I’ll spend at least one hour daily working with Python 
 
 ---
 
-## 📂 Repository Structure
-
-Day01/
-└── hello_world.py
-Day02/
-└── basic_calculator.py
-...
-Day100/
-└── final_project/
-README.md
-
-yaml
-Copy
-Edit
-
-Each folder represents one day of the challenge and contains that day's code and notes.
-
----
-
 ## 📌 Rules I'm Following
 
 - Code for at least 1 hour every day
