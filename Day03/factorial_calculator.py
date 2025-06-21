@@ -5,7 +5,6 @@
 
 num = int(input("Enter the number: "))
 result = 1
-i = num
 
 while num >= 1:
     result = result * num
